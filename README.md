@@ -23,7 +23,8 @@ how its work(algorithm):
 
 animation:
 
-  <img src="https://en.wikipedia.org/wiki/Strand_sort#/media/File:StrandSort.gif" width="40" height="40" />
+![Alt Text](/Media/Strand_sort_test.PNG)
+
 
 
 references :
