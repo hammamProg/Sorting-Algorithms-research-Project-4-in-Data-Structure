@@ -105,10 +105,16 @@ it's a combination of two algorithms ( insertion and merge ) , and it was implem
 ### References
 
  1) StrandSort:
+
+
+	```
 	- https://www.pythonpool.com/python-strand-sort
-	- https://en.wikipedia.org/wiki/Strand_sort
+	
+	- https://en.wikipedia.org/wiki/Strand_sort 		
+	```
+	
  2) Temsort:
- 
+
      	- https://en.wikipedia.org/wiki/Timsort
      	
      	- https://hackernoon.com/timsort-the-fastest-sorting-algorithm-youve-never-heard-of-36b28417f399
@@ -119,8 +125,15 @@ it's a combination of two algorithms ( insertion and merge ) , and it was implem
      	- 
      	- https://www.javatpoint.com/tim-sort
  
+ 3) CycleSort:
+ 	```
+	-https://en.wikipedia.org/wiki/Cycle_sort
+	
+	-https://www.javatpoint.com/cycle-sort
+	
+	-https://python-tutorials.in/python-program-for-cycle-sort/
 
-   
+   	```
    
    Choose algorithms by this article on geeksforgeeks:
 	https://www.geeksforgeeks.org/sorting-algorithms/
