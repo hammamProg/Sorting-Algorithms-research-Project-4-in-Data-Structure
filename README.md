@@ -23,7 +23,7 @@ how its work(algorithm):
 
 animation:
 
-![Alt Text](/Media/Strand_sort_test.PNG)
+![Alt Text](/Media/StrandSort.gif)
 
 
 
