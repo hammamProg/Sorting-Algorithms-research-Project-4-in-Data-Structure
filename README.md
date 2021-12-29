@@ -86,14 +86,18 @@ it's a combination of two algorithms ( insertion and merge ) , and it was implem
 	5- if the first element is in the right position move to next index.
 	
 	6- repeat this steps until the array is sorted.
-	
-	
+### Animation:
+
+  ![Cycle Sort gif](/Media/cycle_sort_gif.gif)
+  
 ### Implementation:
 
 
-  [Timsort Code](/Code/Timsort.pyy)
+  [CycleSort Code](/Code/CycleSort.py)
+  
   #### Result
-  ![Temsort_image](/Media/timsort.png)
+  
+  ![CycleSort_image](/Media/Cycle_sort.PNG)
 
 
 
