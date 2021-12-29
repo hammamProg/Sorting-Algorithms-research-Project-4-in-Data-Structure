@@ -33,7 +33,6 @@ it's a sorting algorithms based on recursion, this algorithm sorts items of a li
   ![strand_sort_test](/Media/Strand_sort_test.PNG)
 
 
------
 
 ## 2) Timsort
 
@@ -64,6 +63,38 @@ it's a combination of two algorithms ( insertion and merge ) , and it was implem
   [Timsort Code](/Code/Timsort.pyy)
   #### Result
   ![Temsort_image](/Media/timsort.png)
+
+## 3) Cycle Sort
+
+
+
+### Time Complexity:
+- In the worst case(where the list is in reverse order) it takes `O(n^2)`.
+- In average case it takes `O(n^2)`
+- In the best case ( where the list is already sorted) it takes `O(n^2)`
+
+### How its work(algorithm): 
+
+	1- Choose the first element(suppose it = X) of an array.
+  
+	2- Compare it with all elements in this array.
+  
+	3- Count the number of element greater than this(X) and the count represent the position of X in the array.
+  
+	4- Switch X with the element in its position.
+	
+	5- if the first element is in the right position move to next index.
+	
+	6- repeat this steps until the array is sorted.
+	
+	
+### Implementation:
+
+
+  [Timsort Code](/Code/Timsort.pyy)
+  #### Result
+  ![Temsort_image](/Media/timsort.png)
+
 
 
 
