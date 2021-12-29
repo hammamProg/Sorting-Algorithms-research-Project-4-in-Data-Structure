@@ -8,9 +8,6 @@ it's a sorting algorithms based on recursion, this algorithm sorts items of a li
 - In the worst case(where the list is in reverse order) it takes `O(n^2)`.
 - In the best case ( where the list is already sorted) it takes `O(n)`
 
-Note:  
-
-
 ### How its work(algorithm): 
 
 	1- At first take the first element in the list into a sub list, and remove it from the main list.
