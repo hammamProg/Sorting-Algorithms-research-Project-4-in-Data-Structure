@@ -57,24 +57,33 @@ it's a combination of two algorithms ( insertion and merge ) , and it was implem
 	
 	5- After each iteration double the size of merged sub-arrays
 
-### Animation:
-
-![strand_sort_gif](/Media/StrandSort.gif)
 
 ### Implementation:
 
 
-  [Strand Sort Code](/Code/app.py)
+  [Timsort Code](/Code/Timsort.pyy)
   #### Result
-  ![strand_sort_test](/Media/Strand_sort_test.PNG)
+  ![Temsort_image](/Media/timsort.png)
 
 
 
 ### References
 
- 1) Strand Sort:
+ 1) StrandSort:
 	- https://www.pythonpool.com/python-strand-sort
 	- https://en.wikipedia.org/wiki/Strand_sort
+ 2) Temsort:
+ 
+     	- https://en.wikipedia.org/wiki/Timsort
+     	
+     	- https://hackernoon.com/timsort-the-fastest-sorting-algorithm-youve-never-heard-of-36b28417f399
+     	
+     	- https://www.geeksforgeeks.org/timsort/	
+     	
+     	- https://www.youtube.com/watch?v=9kFHVe5MT6o
+     	- 
+     	- https://www.javatpoint.com/tim-sort
+ 
 
    
    
